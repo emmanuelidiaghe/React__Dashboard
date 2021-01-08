@@ -1,7 +1,41 @@
 .userBody {
+    width: 50%;
     background-color: #12124b;
     color: white;
-    padding: 40px;
-    font-family: Arial;
+    padding: 7%;
+    font-family: 'Quicksand', 'Poppins';
     text-align: left;
+}
+
+.hello1 {
+    font-weight: normal;
+}
+
+.searchIn {
+    color: #ffffff;
+    width: 60%;
+    margin-top: 5%;
+    background-color: #2c2c64e6;
+}
+
+::placeholder {
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+
+.all, .male, .female {
+    width: 20%;
+    margin-right: 10%;
+    
+}
+
+.showUsers p {
+    font-size: small;
+    text-align: center;
 }
