@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+  background-color: #12124b;
+  font-family: 'Quicksand' 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
 .rowC{
   display:flex;
   flex-direction:row;

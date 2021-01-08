@@ -1,7 +1,8 @@
 .detailBody {
-    background-color: #6969db;
-    color: white;
-    padding: 40px;
-    font-family: Arial;
-    text-align: left;
+    width: 50%;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 15px;
+    background-color: #e2dede;
+    font-family: 'Quicksand', 'Poppins';
 }
